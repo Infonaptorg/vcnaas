@@ -33,7 +33,7 @@ sections:
       text: |
         #### Products:
         In addition to the commemorative convention mugs, you can purchase your exclusive t-shirts or hoodies, selecting the size and style for men or women.
-        
+
         |   |   |   |
         |---|---|---|
         | ![](mugs.png) | ![](houdi.png) | ![](tshirt.png) |
@@ -50,15 +50,15 @@ sections:
       text: |
 
         > You can also purchase Saturday lunch, Saturday dinner, and Sunday lunch, served at the convention venue. (only available for purchase during the pre-registration period until July 30, 2026)
-        
+
         > Accommodation available in Barreiro: hotels, guesthouses, local accommodation.
-        
-        #### Convention venue: 
+
+        #### Convention venue:
 
         Barreiro - Auditório Municipal Augusto Cabrita
-        
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.7163461834434!2d-9.06371793819416!3d38.649430384672485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd193632b64306ab%3A0x36299d50857897fd!2sAudit%C3%B3rio%20Municipal%20Augusto%20Cabrita!5e1!3m2!1sen!2spt!4v1772372327286!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.7163461834434!2d-9.06371793819416!3d38.649430384672485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd193632b64306ab%3A0x36299d50857897fd!2sAudit%C3%B3rio%20Municipal%20Augusto%20Cabrita!5e1!3m2!1sen!2spt!4v1772372327286!5m2!1sen!2spt" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 
         --------------------------
@@ -66,23 +66,23 @@ sections:
         #### Meal Menu for Saturday.
 
         |                | Plates
-        |---             |---                               
-        |   *Soup*       |*Creme de cenoura*                
-        |  *Meat*        |*Massa à Bolonhesa*               
-        |  *Fish*        |*Frigideira cremosa de bacalhau* 
-        |  *Vegie*       |*Quiche de legumes*              
-        | *Dessert*      |*Fruta da época*                  
-        | *Drinks*       |*Água*                           
-                
+        |---             |---
+        |   *Soup*       |*Creme de cenoura*
+        |  *Meat*        |*Massa à Bolonhesa*
+        |  *Fish*        |*Frigideira cremosa de bacalhau*
+        |  *Vegie*       |*Quiche de legumes*
+        | *Dessert*      |*Fruta da época*
+        | *Drinks*       |*Água*
+
         --------------------------
 
-        
+
         *Your pre-registration will be sent by email, with the option to change your meal choices and exclusive T-shirt.*
-        
-        *If you have any questions, please contact the Convention Organizing Committee directly using the contact details provided in the pre-registration confirmation email.* 
-        
+
+        *If you have any questions, please contact the Convention Organizing Committee directly using the contact details provided in the pre-registration confirmation email.*
+
         **Side by Side**
-        
+
     design:
       columns: "1"
       background:
@@ -94,7 +94,7 @@ sections:
       title: ""
       subtitle: ""
       text: |
-        <pretix-widget event="https://registos.na-pt.org/cpna26/"></pretix-widget><noscript><div class="pretix-widget"><div class="pretix-widget-info-message">JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://registos.na-pt.org/cpna26/">click here</a>.</div></div></noscript>    
+        <pretix-widget event="https://registos.na-pt.org/cpna26/"></pretix-widget><noscript><div class="pretix-widget"><div class="pretix-widget-info-message">JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://registos.na-pt.org/cpna26/">click here</a>.</div></div></noscript>
     design:
       columns: "1"
       background:
