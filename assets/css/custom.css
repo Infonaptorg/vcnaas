@@ -49,6 +49,25 @@ header nav .navbar-nav {
   margin-left: auto !important;
 }
 
+/* ====================================================================== */
+/*  GLOBAL TEXT COLOR OVERRIDE – ALL SECTIONS WHITE                       */
+/* ====================================================================== */
+
+/* Make all text inside any <section> white */
+section,
+section *,
+#info,
+#info *,
+#cartaz,
+#cartaz *,
+footer,
+footer *,
+header,
+header *,
+body,
+body * {
+  color: #FFFFFF !important;
+}
 
 /* ====================================================================== */
 /*  FULL-WIDTH CARTAZ (IMAGE BLOCK)                                       */
