@@ -3,8 +3,8 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
+# en:
+#   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
@@ -20,3 +20,18 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+
+pt:
+  languageCode: pt-PT
+  title: "VCNAAS 2026 - LADO A LADO"
+  weight: 1
+
+en:
+  languageCode: en
+  title: "VCNAAS 2026 - SIDE BY SIDE"
+  weight: 2
+
+es:
+  languageCode: en
+  title: "VCNAAS 2026 - LADO A LADO"
+  weight: 2

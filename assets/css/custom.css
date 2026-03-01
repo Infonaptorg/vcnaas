@@ -1,0 +1,137 @@
+/* ====================================================================== */
+/*  HEADER STYLE OVERRIDES                                                */
+/* ====================================================================== */
+
+/* Match navbar background to content background */
+header,
+header nav {
+  background-color: #333333 !important;
+}
+
+/* Ensure navbar links/buttons remain readable */
+header a,
+header button {
+  color: #ffffff !important;
+}
+
+/* Hide theme toggle (sun/moon) */
+header button.theme-toggle,
+header .theme-toggle {
+  display: none !important;
+}
+
+/* Hide default logo image, keep only text */
+header .navbar-brand > *:first-child,
+header [data-component="navbar-brand"] > *:first-child {
+  display: none !important;
+}
+
+/* Brand container stays visible */
+header .navbar-brand,
+header [data-component="navbar-brand"] {
+  display: flex !important;
+  align-items: center;
+}
+
+/* Small spacing if there are two elements */
+header .navbar-brand > * + * {
+  margin-left: 0.5rem;
+}
+
+/* Move menu to the right */
+header nav ul.navbar-nav,
+header nav ul#nav-menu,
+header nav ul {
+  justify-content: flex-end !important;
+}
+
+header nav .navbar-nav {
+  margin-left: auto !important;
+}
+
+
+/* ====================================================================== */
+/*  FULL-WIDTH CARTAZ (IMAGE BLOCK)                                       */
+/* ====================================================================== */
+
+/* Make the section bleed full viewport width */
+#cartaz,
+section#cartaz {
+  width: 100vw !important;
+  margin-left: calc(50% - 50vw) !important;
+  margin-right: calc(50% - 50vw) !important;
+  padding: 0 !important;
+  background: #17191A !important;
+}
+
+/* Remove HugoBlox wrapper padding/margins */
+#cartaz .home-section-bg {
+  display: none !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+#cartaz .max-w-prose,
+#cartaz .prose,
+#cartaz .mx-auto,
+#cartaz .px-6,
+#cartaz .flex,
+#cartaz figure,
+#cartaz .w-full,
+#cartaz [class*="col-"] {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Full-width image itself */
+#cartaz img {
+  width: 100% !important;
+  max-width: none !important;
+  height: auto !important;
+  display: block !important;
+}
+
+
+/* ====================================================================== */
+/*  REMOVE GRAY GAP BETWEEN CARTAZ AND INFO                               */
+/* ====================================================================== */
+
+#info {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+#info h2:first-of-type,
+#info h1:first-of-type {
+  margin-top: 0 !important;
+}
+
+
+/* ====================================================================== */
+/*  FOOTER STYLE                                                          */
+/* ====================================================================== */
+
+.page-footer,
+div.page-footer,
+footer,
+footer .footer {
+  background-color: #333333 !important;
+}
+
+footer,
+footer * {
+  color: #ffffff !important;
+}
+
+
+/* ====================================================================== */
+/*  GLOBAL HOUSEKEEPING                                                   */
+/* ====================================================================== */
+
+/* Avoid horizontal scrolling due to full-bleed sections */
+body {
+  overflow-x: hidden;
+}
