@@ -29,9 +29,9 @@ pt:
 en:
   languageCode: en
   title: "VCNAAS 2026 - SIDE BY SIDE"
-  weight: 2
+  weight: 1
 
 es:
-  languageCode: en
+  languageCode: es
   title: "VCNAAS 2026 - LADO A LADO"
-  weight: 2
+  weight: 1

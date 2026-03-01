@@ -70,6 +70,19 @@ body * {
 }
 
 /* ====================================================================== */
+/*  HIDE LANGUAGE MENU (BUTTON + DROPDOWN)                                */
+/* ====================================================================== */
+
+header [data-hb-language-chooser],
+header [data-hb-language-menu],
+header button[title="languages"],
+header .hb-language-chooser,
+header .hb-language-menu {
+  display: none !important;
+}
+
+
+/* ====================================================================== */
 /*  FULL-WIDTH CARTAZ (IMAGE BLOCK)                                       */
 /* ====================================================================== */
 
