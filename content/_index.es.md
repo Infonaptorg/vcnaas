@@ -24,25 +24,8 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-
-  - block: markdown
-    id: products
-    content:
-      title: "Merchandise"
-      subtitle: ""
-      text: |
-        #### Productos:
-        Además de las tazas conmemorativas de la convención, podrás adquirir tus camisetas o sudaderas exclusivas, seleccionando la talla.
-
-        |   |   |   |
-        |---|---|---|
-        | ![](mugs.jpg) | ![](houdi.jpg) | ![](tshirt.jpg) |
-    design:
-      columns: "3"
-      background:
-        color: "#17191A"
-
-
+        
+        
   - block: markdown
     id: info
     content:
@@ -50,7 +33,7 @@ sections:
       subtitle: ""
       text: |
 
-        > También puedes adquirir el almuerzo del sábado, la cena del sábado y el almuerzo del domingo, que se servirán en el recinto de la convención. (solo disponible para su adquisición en la fase de preinscripción hasta el 30.07.2026)
+        > También puedes adquirir el almuerzo del sábado, la cena del sábado que se servirán en el recinto de la convención. (solo disponible para su adquisición en la fase de preinscripción hasta el 15.08.2026)
 
         > Alojamientos disponibles en Barreiro: hoteles, pensiones, alojamientos locales.
 
@@ -71,7 +54,7 @@ sections:
         |  *Carne*       | *Arroz de Pato*
         |  *Peixe*       | *Bacalhau com natas *
         |  *Vegetariano* | *Lasanha de legumes*
-        | *Sobremesa*    | *Salada e Doces*
+        | *Sobremesa*    | *Doces*
         | *Bebida*       | *Águas e Refrigerantes*
 
 
