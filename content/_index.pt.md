@@ -25,30 +25,13 @@ sections:
         margin: [0, 0, 0, 0]
 
   - block: markdown
-    id: products
-    content:
-      title: "Merchandise"
-      subtitle: ""
-      text: |
-        #### Produtos:
-        Alem das canecas comemorativas da convencao podem adquirir as vossa t-shirts ou Hoodies exclusivos, selecionado o tamanho e modelo para Homem ou Mulher.
-
-        |   |   |   |
-        |---|---|---|
-        | ![](tshirt.jpg) | ![](houdi.jpg) | ![](mugs.jpg) |
-    design:
-      columns: "3"
-      background:
-        color: "#17191A"
-
-  - block: markdown
     id: info
     content:
       title: "Informações"
       subtitle: ""
       text: |
 
-        > Podem ainda adquirir o jantar de sábado servido no espaço da convenção. (apenas disponível para aquisição em fase de pré-registo até 30.07.2026)
+        > Podem ainda adquirir o jantar de sábado servido no espaço da convenção. (apenas disponível para aquisição em fase de pré-registo até 15.08.2026)
 
         > Alojamentos disponíveis no Barreiro ou area envolvente: hotéis, pensões, alojamento local.
 
@@ -70,7 +53,7 @@ sections:
         |  *Carne*       | *Arroz de Pato*
         |  *Peixe*       | *Bacalhau com natas*
         |  *Vegetariano* | *Lasanha de legumes*
-        | *Sobremesa*    | *Salada e Doces*
+        | *Sobremesa*    | *Doces*
         | *Bebida*       | *Águas e Refrigerantes*
 
 

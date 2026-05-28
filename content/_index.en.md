@@ -26,30 +26,13 @@ sections:
         margin: [0, 0, 0, 0]
 
   - block: markdown
-    id: products
-    content:
-      title: "Merchandise"
-      subtitle: ""
-      text: |
-        #### Products:
-        In addition to the commemorative convention mugs, you can purchase your exclusive t-shirts or hoodies, selecting the size.
-
-        |   |   |   |
-        |---|---|---|
-        | ![](mugs.png) | ![](houdi.png) | ![](tshirt.png) |
-    design:
-      columns: "3"
-      background:
-        color: "#17191A"
-
-  - block: markdown
     id: info
     content:
       title: "Information"
       subtitle: ""
       text: |
 
-        > You can also purchase Saturday lunch, Saturday dinner, and Sunday lunch, served at the convention venue. (only available for purchase during the pre-registration period until July 30, 2026)
+        > You can also purchase Saturday lunch, Saturday dinner, served at the convention venue. (only available for purchase during the pre-registration period until August 15, 2026)
 
         > Accommodation available in Barreiro: hotels, guesthouses, local accommodation.
 
@@ -71,7 +54,7 @@ sections:
         |  *Meat*        | *Dick Rice*
         |  *Fish*        | *Codfish *
         |  *Vegy*        | *Vegetables with Cream*
-        | *Deserts*      | *Fruit or Suits*
+        | *Deserts*      | *Sweets*
         | *Drinks*       | *Water and Soda's*
 
         --------------------------
