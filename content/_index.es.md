@@ -32,7 +32,7 @@ sections:
       subtitle: ""
       text: |
         #### Productos:
-        Además de las tazas conmemorativas de la convención, podrás adquirir tus camisetas o sudaderas exclusivas, seleccionando la talla y el estilo para hombre o mujer.
+        Además de las tazas conmemorativas de la convención, podrás adquirir tus camisetas o sudaderas exclusivas, seleccionando la talla.
 
         |   |   |   |
         |---|---|---|

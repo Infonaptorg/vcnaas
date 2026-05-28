@@ -32,7 +32,7 @@ sections:
       subtitle: ""
       text: |
         #### Products:
-        In addition to the commemorative convention mugs, you can purchase your exclusive t-shirts or hoodies, selecting the size and style for men or women.
+        In addition to the commemorative convention mugs, you can purchase your exclusive t-shirts or hoodies, selecting the size.
 
         |   |   |   |
         |---|---|---|
