@@ -67,12 +67,12 @@ sections:
 
         |                | Plates
         |---             |---
-        |   *Soup*       |*Creme de cenoura*
-        |  *Meat*        |*Massa à Bolonhesa*
-        |  *Fish*        |*Frigideira cremosa de bacalhau*
-        |  *Vegie*       |*Quiche de legumes*
-        | *Dessert*      |*Fruta da época*
-        | *Drinks*       |*Água*
+        |   *Soup*       | *Creme de cenoura*
+        |  *Meat*        | *Dick Rice*
+        |  *Fish*        | *Codfish *
+        |  *Vegy*        | *Vegetables with Cream*
+        | *Deserts*      | *Fruit or Suits*
+        | *Drinks*       | *Water and Soda's*
 
         --------------------------
 

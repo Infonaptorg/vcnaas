@@ -36,7 +36,7 @@ sections:
 
         |   |   |   |
         |---|---|---|
-        | ![](mugs.png) | ![](houdi.png) | ![](tshirt.png) |
+        | ![](mugs.jpg) | ![](houdi.jpg) | ![](tshirt.jpg) |
     design:
       columns: "3"
       background:
@@ -65,14 +65,14 @@ sections:
 
         #### Menu de la Cena de Sabado.
 
-        |                | Platos
+        |                | Pratos
         |---             |---
-        |   *Sopa*       |*Creme de cenoura*
-        |  *Carne*       |*Massa à Bolonhesa*
-        |  *Peixe*       |*Frigideira cremosa de bacalhau*
-        |  *Vegetariano* |*Quiche de legumes*
-        | *Postre*       |*Fruta da época*
-        | *Bebida*       |*Água*
+        |   *Sopa*       | *Creme de cenoura*
+        |  *Carne*       | *Arroz de Pato*
+        |  *Peixe*       | *Bacalhau com natas *
+        |  *Vegetariano* | *Lasanha de legumes*
+        | *Sobremesa*    | *Salada e Doces*
+        | *Bebida*       | *Águas e Refrigerantes*
 
 
         --------------------------

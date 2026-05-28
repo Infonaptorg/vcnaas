@@ -31,11 +31,11 @@ sections:
       subtitle: ""
       text: |
         #### Produtos:
-        Alem das canecas comemorativas da convencao podem adquirir as vossa t-shirts ou houdi's exclusivos, selecionado o tamanho e modelo para Homem ou Mulher.
+        Alem das canecas comemorativas da convencao podem adquirir as vossa t-shirts ou Hoodies exclusivos, selecionado o tamanho e modelo para Homem ou Mulher.
 
         |   |   |   |
         |---|---|---|
-        | ![](mugs.png) | ![](houdi.png) | ![](tshirt.png) |
+        | ![](tshirt.jpg) | ![](houdi.jpg) | ![](mugs.jpg) |
     design:
       columns: "3"
       background:
@@ -66,12 +66,12 @@ sections:
 
         |                | Pratos
         |---             |---
-        |   *Sopa*       |*Creme de cenoura*
-        |  *Carne*       |*Massa à Bolonhesa*
-        |  *Peixe*       | *Frigideira cremosa de bacalhau*
-        |  *Vegetariano* | *Quiche de legumes*
-        | *Sobremesa*    |*Fruta da época*
-        | *Bebida*       |*Água*
+        |   *Sopa*       | *Creme de cenoura*
+        |  *Carne*       | *Arroz de Pato*
+        |  *Peixe*       | *Bacalhau com natas*
+        |  *Vegetariano* | *Lasanha de legumes*
+        | *Sobremesa*    | *Salada e Doces*
+        | *Bebida*       | *Águas e Refrigerantes*
 
 
         --------------------------
