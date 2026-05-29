@@ -32,7 +32,7 @@ sections:
       subtitle: ""
       text: |
 
-        > You can also purchase Saturday lunch, Saturday dinner, served at the convention venue. (only available for purchase during the pre-registration period until August 15, 2026)
+        > You can also purchase Saturday dinner, served at the convention venue. (only available for purchase during the pre-registration period until August 15, 2026)
 
         > Accommodation available in Barreiro: hotels, guesthouses, local accommodation.
 
@@ -50,8 +50,8 @@ sections:
 
         |                | Plates
         |---             |---
-        |   *Soup*       | *Creme de cenoura*
-        |  *Meat*        | *Dick Rice*
+        |   *Soup*       | *Cream of carrot soup*
+        |  *Meat*        | *Duck Rice*
         |  *Fish*        | *Codfish *
         |  *Vegy*        | *Vegetables with Cream*
         | *Deserts*      | *Sweets*
