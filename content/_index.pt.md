@@ -48,13 +48,12 @@ sections:
         #### Menu do Jantar de Sabado.
 
         |                | Pratos
-        |---             |---
-        |   *Sopa*       | *Creme de cenoura*
+        |---             |--
         |  *Carne*       | *Arroz de Pato*
         |  *Peixe*       | *Bacalhau com natas*
         |  *Vegetariano* | *Lasanha de legumes*
         | *Sobremesa*    | *Doces*
-        | *Bebida*       | *Águas e Refrigerantes*
+        | *Bebida*       | *Águas e Refrigerantes ( cafe incluido )*
 
 
         --------------------------

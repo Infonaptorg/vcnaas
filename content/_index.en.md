@@ -49,13 +49,12 @@ sections:
         #### Meal Menu for Saturday.
 
         |                | Plates
-        |---             |---
-        |   *Soup*       | *Cream of carrot soup*
+        |---             |--
         |  *Meat*        | *Duck Rice*
-        |  *Fish*        | *Codfish *
+        |  *Fish*        | *Codfish*
         |  *Vegy*        | *Vegetables with Cream*
         | *Deserts*      | *Sweets*
-        | *Drinks*       | *Water and Soda's*
+        | *Drinks*       | *Water and Soda's ( coffe included )*
 
         --------------------------
 
