@@ -173,9 +173,15 @@ body {
 /* Pretix */                                                */
 /* ====================================================================== */
 
-.pretix input[type="text"], .pretix-widget input[type="number"], .pretix-widget select, .pretix-widget-alert-box input[type="text"], .pretix-widget-alert-box input[type="number"], .pretix-widget-alert-box select {
-background-color: initial;
+.pretix-dark {
+  background: #17191A;
+  padding: 24px;
+  border-radius: 12px;
 }
-.pretix button.pretix-widget-btn-default, .pretix-widget input[type="button"].pretix-widget-btn-default, .pretix-widget a.pretix-widget-button.pretix-widget-btn-default, .pretix-widget-alert-box button.pretix-widget-btn-default, .pretix-widget-alert-box input[type="button"].pretix-widget-btn-default, .pretix-widget-alert-box a.pretix-widget-button.pretix-widget-btn-default {
-background-color: initial;
+
+.pretix-dark input,
+.pretix-dark select,
+.pretix-dark button,
+.pretix-dark a.pretix-widget-button {
+  background: transparent !important;
 }

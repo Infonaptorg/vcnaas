@@ -78,5 +78,5 @@ sections:
     design:
       columns: "1"
       background:
-        color: "#17191A"      
+        color: "#17191A"    
 ---
