@@ -168,3 +168,14 @@ body {
   overflow-x: hidden;
 }
 
+
+/* ====================================================================== */
+/* Pretix */                                                */
+/* ====================================================================== */
+
+.pretix input[type="text"], .pretix-widget input[type="number"], .pretix-widget select, .pretix-widget-alert-box input[type="text"], .pretix-widget-alert-box input[type="number"], .pretix-widget-alert-box select {
+background-color: initial;
+}
+.pretix button.pretix-widget-btn-default, .pretix-widget input[type="button"].pretix-widget-btn-default, .pretix-widget a.pretix-widget-button.pretix-widget-btn-default, .pretix-widget-alert-box button.pretix-widget-btn-default, .pretix-widget-alert-box input[type="button"].pretix-widget-btn-default, .pretix-widget-alert-box a.pretix-widget-button.pretix-widget-btn-default {
+background-color: initial;
+}
