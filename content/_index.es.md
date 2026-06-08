@@ -32,7 +32,7 @@ sections:
       subtitle: ""
       text: |
 
-        > También puedes adquirir el almuerzo del sábado, la cena del sábado que se servirán en el recinto de la convención. (solo disponible para su adquisición en la fase de preinscripción hasta el 15.08.2026)
+        > También puedes adquirir de la cena del sábado que se servirán en el recinto de la convención. (solo disponible para su adquisición en la fase de preinscripción hasta el 15.08.2026)
 
         > Alojamientos disponibles en Barreiro: hoteles, pensiones, alojamientos locales.
 
