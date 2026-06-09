@@ -185,3 +185,16 @@ body {
 .pretix-dark a.pretix-widget-button {
   background: transparent !important;
 }
+
+.page-footer {
+  background: #17191A;
+  color: #ffffff;
+  padding: 24px 0;
+  margin-top: 0;
+}
+
+.page-footer footer,
+.page-footer p,
+.page-footer a {
+  color: #ffffff !important;
+}
