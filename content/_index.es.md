@@ -50,7 +50,7 @@ sections:
         |                | Pratos
         |---             |--
         |  *Carne*       | *Arroz de Pato*
-        |  *Peixe*       | *Bacalhau com natas *
+        |  *Peixe*       | *Bacalhau com natas*
         |  *Vegetariano* | *Lasanha de legumes*
         | *Sobremesa*    | *Doces*
         | *Bebida*       | *Águas e Refrigerantes ( cafe incluido )*

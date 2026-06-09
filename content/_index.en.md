@@ -1,5 +1,5 @@
 ---
-title: 'VCNAAS Setembro 2026 - SIDE BY SIDE - BARREIRO'
+title: 'VCNAAS September 2026 - SIDE BY SIDE - BARREIRO'
 date: 2023-10-24
 type: landing
 draft: false
