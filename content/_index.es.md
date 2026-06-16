@@ -70,6 +70,24 @@ sections:
       background:
         color: "#17191A"
 
+
+  - block: markdown
+    id: products
+    content:
+      title: "Merchandise"
+      subtitle: ""
+      text: |
+        #### Productos:
+        Además de las tazas conmemorativas de la convención, podrás adquirir tambien tus camisetas o sudaderas, selecciona por favor la talla y estilo ( hombre o mujer ) como lo deseas.
+
+        |   |   |   |
+        |---|---|---|
+        | ![](tshirt.jpg) | ![](houdi.jpg) | ![](mugs.jpg) |
+    design:
+      columns: "3"
+      background:
+        color: "#17191A"
+
   - block: markdown
     id: pretix
     content:

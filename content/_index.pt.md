@@ -69,6 +69,23 @@ sections:
         color: "#17191A"
 
   - block: markdown
+    id: products
+    content:
+      title: "Merchandise"
+      subtitle: ""
+      text: |
+        #### Produtos:
+        Além das canecas comemorativas da convencao poderas tambem adquirir as nossas t-shirts ou Hoodies, não te esquecas de seleccionar o tamanho e modelo ( homem ou mulher ) de acordo com o que pretendes.
+
+        |   |   |   |
+        |---|---|---|
+        | ![](tshirt.jpg) | ![](houdi.jpg) | ![](mugs.jpg) |
+    design:
+      columns: "3"
+      background:
+        color: "#17191A"
+
+  - block: markdown
     id: pretix
     content:
       title: ""

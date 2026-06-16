@@ -69,6 +69,23 @@ sections:
         color: "#17191A"
 
   - block: markdown
+    id: products
+    content:
+      title: "Merchandise"
+      subtitle: ""
+      text: |
+        #### Products:
+        In addition to the commemorative convention mugs, you can also purchase  exclusive t-shirt or hoodies, please select size and style ( men or women ) accordingly.
+
+        |   |   |   |
+        |---|---|---|
+        | ![](tshirt.jpg) | ![](houdi.jpg) | ![](mugs.jpg) |
+    design:
+      columns: "3"
+      background:
+        color: "#17191A"
+
+  - block: markdown
     id: pretix
     content:
       title: ""
