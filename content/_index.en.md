@@ -79,7 +79,7 @@ sections:
 
         |   |   |   |
         |---|---|---|
-        | ![](tshirt.jpg) | ![](houdi.jpg) | ![](mugs.jpg) |
+        | ![](tshirt-blue.jpeg) | ![](houdi.jpg) | ![](mugs-yellow.jpeg) |
     design:
       columns: "3"
       background:
