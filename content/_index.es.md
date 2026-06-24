@@ -32,10 +32,6 @@ sections:
       subtitle: ""
       text: |
 
-        > También puedes adquirir de la cena del sábado que se servirán en el recinto de la convención. (solo disponible para su adquisición en la fase de preinscripción hasta el 15.08.2026)
-
-        > Alojamientos disponibles en Barreiro: hoteles, pensiones, alojamientos locales.
-
         #### Lugar de la convención:
 
         Barreiro - Auditório Municipal Augusto Cabrita
@@ -89,11 +85,10 @@ sections:
 
         Contacto de ventas:
         
-        São S.: +351 915545964
-
+        São S.: +351 91554596
         |   |   |   |
         |---|---|---|
-        | ![](tshirt-blue.jpeg) | ![](houdi.jpg) | ![](mugs-yellow.jpeg) |
+        | ![](tshirts.jpeg) | ![](houdi.jpeg) | ![](mugs.jpeg) |
     design:
       columns: "3"
       background:

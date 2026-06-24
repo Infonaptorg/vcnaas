@@ -31,10 +31,6 @@ sections:
       subtitle: ""
       text: |
 
-        > Podem ainda adquirir o jantar de sábado servido no espaço da convenção. (apenas disponível para aquisição em fase de pré-registo até 15.08.2026)
-
-        > Alojamentos disponíveis no Barreiro ou area envolvente: hotéis, pensões, alojamento local.
-
         #### Local da convenção:
 
         Barreiro - Auditório Municipal Augusto Cabrita
@@ -85,11 +81,10 @@ sections:
         
         Contacto para vendas: 
         
-        São S.:  +351 915545964
-      
+        São S.:  +351 91554596      
         |   |   |   |
         |---|---|---|
-        | ![](tshirt-blue.jpeg) | ![](houdi.jpg) | ![](mugs-yellow.jpeg) |
+        | ![](tshirts.jpeg) | ![](houdi.jpeg) | ![](mugs.jpeg) |
     design:
       columns: "3"
       background:

@@ -31,10 +31,6 @@ sections:
       subtitle: ""
       text: |
 
-        > You can also purchase Saturday dinner, served at the convention venue. (only available for purchase during the pre-registration period until August 15, 2026)
-
-        > Accommodation available in Barreiro: hotels, guesthouses, local accommodation.
-
         #### Convention venue:
 
         Barreiro - Auditório Municipal Augusto Cabrita
@@ -86,11 +82,10 @@ sections:
 
         Sales contacts:
         
-        São S.: +351 915545964        
-      
+        São S.: +351 915545964             
         |   |   |   |
         |---|---|---|
-        | ![](tshirt-blue.jpeg) | ![](houdi.jpg) | ![](mugs-yellow.jpeg) |
+        | ![](tshirts.jpeg) | ![](houdi.jpeg) | ![](mugs.jpeg) |
     design:
       columns: "3"
       background:
