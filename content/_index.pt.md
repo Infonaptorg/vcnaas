@@ -37,7 +37,7 @@ sections:
 
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.7163461834434!2d-9.06371793819416!3d38.649430384672485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd193632b64306ab%3A0x36299d50857897fd!2sAudit%C3%B3rio%20Municipal%20Augusto%20Cabrita!5e1!3m2!1sen!2spt!4v1772372327286!5m2!1sen!2spt" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-        Instala a App "<a href="https://www.cm-barreiro.pt/participar/app-aqui-barreiro/">Aqui Barreiro</a>” para saberes onde dormir, comer e o que visitar no Barreiro.(Disponível: no PlayStore da Google e no Apple Store da Apple.)
+        Se desejares instala a App "<a href="https://www.cm-barreiro.pt/participar/app-aqui-barreiro/">Aqui Barreiro</a>” para saberes onde dormir, comer e o que visitar no Barreiro.(Disponível: no PlayStore da Google e no Apple Store da Apple.)
 
         --------------------------
 
@@ -81,7 +81,7 @@ sections:
         
         Contacto para vendas: 
         
-        São S.:  +351 91554596      
+        São S.:  +351 915 545 964    
         |   |   |   |
         |---|---|---|
         | ![](tshirts.jpeg) | ![](houdi.jpeg) | ![](mugs.jpeg) |
