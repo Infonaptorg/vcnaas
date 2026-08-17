@@ -43,8 +43,8 @@ sections:
         --------------------------
 
         #### Cena y Fiesta:
-      
-        El sábado 5, se servirá en el área al aire libre de la convención, y se puede adquirir junto con la preinscripción hasta el 15 de agosto de 2026.
+
+        El sábado 5, se servirá en el área al aire libre de la convención, y se puede adquirir junto con la preinscripción hasta el 20 de agosto de 2026.
 
         La fiesta es gratuita para todos ! Todos son bienvenidos !
 
@@ -84,7 +84,7 @@ sections:
         ¡Disponible en una reunión cerca de usted!
 
         Contacto de ventas:
-        
+
         São S.: +351 915 545 964
         |   |   |   |
         |---|---|---|
@@ -101,10 +101,10 @@ sections:
       subtitle: ""
       text: |
         <div class="pretix-dark"><script type="text/javascript" src="https://registos.na-pt.org/widget/v2.pt-pt.js" async crossorigin></script><pretix-widget event="https://registos.na-pt.org/vcnaas26/"></pretix-widget><noscript><div class="pretix-widget"><div class="pretix-widget-info-message">JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://registos.na-pt.org/vcnaas26/">click here</a>.</div></div></noscript></div>
-      
-        *También puedes obtener tu camiseta exclusiva de la Convención al preinscribirte.  
+
+        *También puedes obtener tu camiseta exclusiva de la Convención al preinscribirte.
     design:
       columns: "1"
       background:
-        color: "#17191A"      
+        color: "#17191A"
 ---

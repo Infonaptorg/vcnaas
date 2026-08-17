@@ -42,9 +42,9 @@ sections:
         --------------------------
 
         #### Jantar e Festa:
-        
-        Sábado dia 5, servido no espaço exterior da convenção, adquirido juntamente com o pré-registo até ao dia 15 Agosto 2026.
-        
+
+        Sábado dia 5, servido no espaço exterior da convenção, adquirido juntamente com o pré-registo até ao dia 20 Agosto 2026.
+
         A festa é grátis para todos ! Todos são bem vindos !
 
         #### Menu do Jantar de Sabado.
@@ -78,10 +78,10 @@ sections:
       text: |
         #### Produtos:
         Disponível numa reunião perto de si !
-        
-        Contacto para vendas: 
-        
-        São S.:  +351 915 545 964    
+
+        Contacto para vendas:
+
+        São S.:  +351 915 545 964
         |   |   |   |
         |---|---|---|
         | ![](tshirts.jpeg) | ![](houdi.jpeg) | ![](mugs.jpeg) |
@@ -95,12 +95,12 @@ sections:
     content:
       title: ""
       subtitle: ""
-      text: 
+      text:
         <div class="pretix-dark"><script type="text/javascript" src="https://registos.na-pt.org/widget/v2.pt-pt.js" async crossorigin></script><pretix-widget event="https://registos.na-pt.org/vcnaas26/"></pretix-widget><noscript><div class="pretix-widget"><div class="pretix-widget-info-message">JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://registos.na-pt.org/vcnaas26/">click here</a>.</div></div></noscript></div>
-        </div>  
+        </div>
         * Adquire também a tua T-shit exclusiva da Convenção no teu pré-registo
     design:
       columns: "1"
       background:
-        color: "#17191A"    
+        color: "#17191A"
 ---
