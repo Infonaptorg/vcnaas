@@ -61,9 +61,9 @@ sections:
         --------------------------
 
 
-        *Your pre-registration will be sent by email, with the option to change your meal choices and exclusive T-shirt.*
+        *Your registration will be sent by email.*
 
-        *If you have any questions, please contact the Convention Organizing Committee directly using the contact details provided in the pre-registration confirmation email.*
+        *If you have any questions, please contact the Convention Organizing Committee directly using the contact details provided in the registration confirmation email.*
 
         **Side by Side**
     design:
@@ -100,7 +100,7 @@ sections:
         <div class="pretix-dark"><script type="text/javascript" src="https://registos.na-pt.org/widget/v2.pt-pt.js" async crossorigin></script><pretix-widget event="https://registos.na-pt.org/vcnaas26/"></pretix-widget><noscript><div class="pretix-widget"><div class="pretix-widget-info-message">JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://registos.na-pt.org/vcnaas26/">click here</a>.</div></div></noscript></div>
         </div>
 
-        *You can also get your exclusive Convention T-shirt when you pre-register.
+#        *You can also get your exclusive Convention T-shirt when you pre-register.
     design:
       columns: "1"
       background:

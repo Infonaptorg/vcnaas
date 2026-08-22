@@ -60,9 +60,9 @@ sections:
 
         --------------------------
 
-        *O teu pré-registo segue por e-mail com possibilidade de poderes alterar as opções do teu pedido para as refeições e outro merchandise.*
+        *O teu registo segue por e-mail.*
 
-        *Para qualquer dúvida, contacta diretamente esta Comissão Organizadora da Convenção através dos contactos indicados no e-mail de confirmação de pedido de pré-registo.*
+        *Para qualquer dúvida, contacta diretamente esta Comissão Organizadora da Convenção através dos contactos indicados no e-mail de confirmação de pedido de registo.*
 
         **Lado a Lado**
     design:
@@ -98,7 +98,7 @@ sections:
       text:
         <div class="pretix-dark"><script type="text/javascript" src="https://registos.na-pt.org/widget/v2.pt-pt.js" async crossorigin></script><pretix-widget event="https://registos.na-pt.org/vcnaas26/"></pretix-widget><noscript><div class="pretix-widget"><div class="pretix-widget-info-message">JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://registos.na-pt.org/vcnaas26/">click here</a>.</div></div></noscript></div>
         </div>
-        * Adquire também a tua T-shit exclusiva da Convenção no teu pré-registo
+#        * Adquire também a tua T-shit exclusiva da Convenção no teu pré-registo
     design:
       columns: "1"
       background:
