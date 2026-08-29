@@ -100,9 +100,16 @@ sections:
       title: ""
       subtitle: ""
       text: |
+        ### Inscríbete en la VCNAAS
+        ### Lo haces online, antes o el mismo día... mejor antes, para evitar demoras...
+        #### El pago no es obligatorio: la contribución es voluntaria y los recién llegados no pagan.
+        #### ¡Contamos contigo!
+
         <div class="pretix-dark"><script type="text/javascript" src="https://registos.na-pt.org/widget/v2.pt-pt.js" async crossorigin></script><pretix-widget event="https://registos.na-pt.org/vcnaas26/"></pretix-widget><noscript><div class="pretix-widget"><div class="pretix-widget-info-message">JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://registos.na-pt.org/vcnaas26/">click here</a>.</div></div></noscript></div>
 
-#        *También puedes obtener tu camiseta exclusiva de la Convención al preinscribirte.
+        **[Descargar programa]({{< asset "media/programa.jpg" >}})**
+
+        ![Programa VCNAAS](programa.jpg)
     design:
       columns: "1"
       background:
