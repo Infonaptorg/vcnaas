@@ -1,0 +1,1 @@
+{{- with resources.Get ( .Get 0 ) }}{{ .Permalink }}{{ else }}{{ errorf "Asset %q not found" (.Get 0) }}{{ end -}}
