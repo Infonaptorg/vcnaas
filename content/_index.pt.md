@@ -106,6 +106,8 @@ sections:
 
         ### Programa
 
+        **[Descarregar programa](programa.jpg)**
+
         ![Programa VCNAAS](programa.jpg)
     design:
       columns: "1"
