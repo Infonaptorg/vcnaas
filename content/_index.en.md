@@ -106,7 +106,7 @@ sections:
 
         ### Program
 
-        **[Download program]({{< asset "programa.jpg" >}})**
+        **[Download program]({{< asset "media/programa.jpg" >}})**
 
         ![Program VCNAAS](programa.jpg)
     design:
