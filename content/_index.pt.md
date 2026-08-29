@@ -106,7 +106,7 @@ sections:
 
         ### Programa
 
-        **[Descarregar programa](programa.jpg)**
+        **[Descarregar programa](/media/programa.jpg)**
 
         ![Programa VCNAAS](programa.jpg)
     design:

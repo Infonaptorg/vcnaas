@@ -96,11 +96,19 @@ sections:
     content:
       title: ""
       subtitle: ""
-      text:
+      text: |
+        ### Sign up for VCNAAS
+        ### You do it online—either beforehand or on the day... preferably beforehand, to avoid delays...
+        #### Payment is not mandatory—the contribution is voluntary, and newcomers do not pay.
+        #### We're counting on you!
         <div class="pretix-dark"><script type="text/javascript" src="https://registos.na-pt.org/widget/v2.pt-pt.js" async crossorigin></script><pretix-widget event="https://registos.na-pt.org/vcnaas26/"></pretix-widget><noscript><div class="pretix-widget"><div class="pretix-widget-info-message">JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://registos.na-pt.org/vcnaas26/">click here</a>.</div></div></noscript></div>
         </div>
 
-#        *You can also get your exclusive Convention T-shirt when you pre-register.
+        ### Program
+
+        **[Download program](/media/programa.jpg)**
+
+        ![Program VCNAAS](programa.jpg)
     design:
       columns: "1"
       background:
