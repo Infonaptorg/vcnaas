@@ -108,7 +108,7 @@ sections:
 
         **[Descarregar programa]({{< asset "media/programa.jpg" >}})**
 
-        ![Programa VCNAAS]({{< asset "media/programa.jpg" >}})
+        ![Programa VCNAAS](programa.jpg)
     design:
       columns: "1"
       background:
